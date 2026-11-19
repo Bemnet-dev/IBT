@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\DTOs",
+    "\\Mappers",
+    "\\Properties",
+    "\\Services",
+    "\\Services\\OrderServices",
+    "\\Services\\RestaurantServices"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
