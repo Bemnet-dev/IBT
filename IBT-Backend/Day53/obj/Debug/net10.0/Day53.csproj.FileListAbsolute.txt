@@ -1,0 +1,14 @@
+C:\Users\bemne\Desktop\IBT-Backend\Day53\obj\Debug\net10.0\Day53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bemne\Desktop\IBT-Backend\Day53\obj\Debug\net10.0\Day53.AssemblyInfoInputs.cache
+C:\Users\bemne\Desktop\IBT-Backend\Day53\obj\Debug\net10.0\Day53.AssemblyInfo.cs
+C:\Users\bemne\Desktop\IBT-Backend\Day53\obj\Debug\net10.0\Day53.csproj.CoreCompileInputs.cache
+C:\Users\bemne\Desktop\IBT-Backend\Day53\bin\Debug\net10.0\Day53.exe
+C:\Users\bemne\Desktop\IBT-Backend\Day53\bin\Debug\net10.0\Day53.deps.json
+C:\Users\bemne\Desktop\IBT-Backend\Day53\bin\Debug\net10.0\Day53.runtimeconfig.json
+C:\Users\bemne\Desktop\IBT-Backend\Day53\bin\Debug\net10.0\Day53.dll
+C:\Users\bemne\Desktop\IBT-Backend\Day53\bin\Debug\net10.0\Day53.pdb
+C:\Users\bemne\Desktop\IBT-Backend\Day53\obj\Debug\net10.0\Day53.dll
+C:\Users\bemne\Desktop\IBT-Backend\Day53\obj\Debug\net10.0\refint\Day53.dll
+C:\Users\bemne\Desktop\IBT-Backend\Day53\obj\Debug\net10.0\Day53.pdb
+C:\Users\bemne\Desktop\IBT-Backend\Day53\obj\Debug\net10.0\Day53.genruntimeconfig.cache
+C:\Users\bemne\Desktop\IBT-Backend\Day53\obj\Debug\net10.0\ref\Day53.dll
