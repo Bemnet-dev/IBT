@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Common",
+    "\\Controllers",
+    "\\Data",
+    "\\DTOs",
+    "\\Mappers",
+    "\\Services",
+    "\\Services\\OrderServices",
+    "\\Services\\RestaurantServices",
+    "\\Validation"
+  ],
+  "SelectedNode": "\\Validation\\EthiopianMobileAttribute.cs",
+  "PreviewInSolutionExplorer": false
+}
